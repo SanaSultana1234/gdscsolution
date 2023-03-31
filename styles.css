@@ -1,0 +1,36 @@
+.mumbai-img {
+    height: 200px;
+}
+.delhi-img {
+    height: 200px;
+}
+
+.hero {
+    background: url('https://thumbs.dreamstime.com/z/homemade-spaghetti-pasta-quail-eggs-bottle-tomato-sauce-cheese-wooden-background-classic-italian-village-food-wood-138221021.jpg') no-repeat center center/cover;
+}
+
+.contact-heading {
+    text-align: center;
+    color: darkgreen;
+    font-size: 40px;
+}
+
+.contact-p {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.contact {
+    background: skyblue;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
+
+button a {
+    text-decoration: none;
+}
